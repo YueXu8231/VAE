@@ -1,3 +1,4 @@
 # The Mnist running results of PCA and AE and VAE
 
-This repository contains code adapted from: https://gist.github.com/jonathanronen/69902c1a97149ab4aae42e099d1d1367
+
+Visualize the (two-dimensional) latent space of PCA, AE and VAE. Training the MNIST datasets with these three models. Each colour represents the distribution with one digital number by labelling in latent space.
